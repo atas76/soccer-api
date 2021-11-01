@@ -1,3 +1,3 @@
 # soccer-api
 
-TBA
+Many things football.
